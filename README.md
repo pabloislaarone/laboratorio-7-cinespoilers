@@ -9,7 +9,7 @@ API REST desarrollada con Django Rest Framework para la gestión de películas y
 
 ---
 
-## 🎥 PRUEBA 2: Registro de películas (movies)
+## 🎥 PRUEBA 2: Listado de películas (movies)
 ![Prueba 2](docs/prueba02.png)
 
 ---
@@ -24,6 +24,9 @@ API REST desarrollada con Django Rest Framework para la gestión de películas y
 
 ---
 
+## 🔗 PRUEBA 5: Creación de la nueva aplicación
+![Prueba 5](docs/prueba05.png)
+![Prueba 6](docs/prueba06.png)
 
 ---
 
